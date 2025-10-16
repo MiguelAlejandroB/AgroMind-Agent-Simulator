@@ -31,7 +31,7 @@ The system deploys a team of specialized AI agents to answer a critical question
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/AgroMind-Agent-Simulator.git](https://github.com/YOUR_USERNAME/AgroMind-Agent-Simulator.git)
+    git clone [https://github.com/MiguelAlejandroB/AgroMind-Agent-Simulator.git](https://github.com/MiguelAlejandroB/AgroMind-Agent-Simulator.git)
     cd AgroMind-Agent-Simulator
     ```
 
